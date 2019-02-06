@@ -58,3 +58,9 @@ main .carousel-inner img{
 #footer a{
   color: white;
 }
+
+.navbar{
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
